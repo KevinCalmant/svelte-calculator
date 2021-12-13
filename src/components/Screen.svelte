@@ -13,7 +13,7 @@
 </div>
 
 <style lang="scss">
-  .screen {
+.screen {
   height: 6em;
   background-color: slategray;
   padding: 1em;
